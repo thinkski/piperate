@@ -1,4 +1,4 @@
-# piperate
+# | piperate |
 
 Simple UNIX tool for copying stdin to stdout while measuring and printing the
 transfer rate to stderr every second.
