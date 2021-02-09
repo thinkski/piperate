@@ -8,6 +8,10 @@ transfer rate to stderr every second.
 Build:
 
     $(CC) piperate.c -o piperate
+    
+Or simple:
+
+    make
 
 Run:
 
